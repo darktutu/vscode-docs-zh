@@ -1,12 +1,3 @@
----
-Order: 1
-Area: editor
-TOCTitle: Setup
-PageTitle: Setting up Visual Studio Code
-DateApproved: 12/18/2015
-MetaDescription: Get Visual Studio Code up and running on Mac OS X, Linux or Windows.
----
-
 # Setting up Visual Studio Code
 
 Getting up and running with VS Code is quick and easy.  Follow the platform specific guides below as well as the list of handy tools.
