@@ -1,6 +1,6 @@
-# Setting up Visual Studio Code
+# 配置 Visual Studio Code
 
-Getting up and running with VS Code is quick and easy.  Follow the platform specific guides below as well as the list of handy tools.
+VS Code 启动和运行都比较快速简单。 Follow the platform specific guides below as well as the list of handy tools.
 
 ## Mac OS X
 1. [Download Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534106) for Mac OS X.
