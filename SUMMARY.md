@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Editor](editor.md)
-   * Setup
+   * [Setup](setup.md)
    * Task
 
