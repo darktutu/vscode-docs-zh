@@ -3,7 +3,7 @@
 VS Code 启动和运行都比较快速简单。 Follow the platform specific guides below as well as the list of handy tools.
 
 ## Mac OS X
-1. [Download Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534106) for Mac OS X.
+1. [下载 Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534106) Mac OS X 版.
 2. Double-click on `VSCode-osx.zip` to expand the contents.
 3. Drag `Visual Studio Code.app` to the `Applications` folder, making it available in the `Launchpad`.
 4. Add VS Code to your Dock by right-clicking on the icon and choosing `Options`, `Keep in Dock`.
@@ -16,7 +16,7 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 Now, you can simply type `code .` in any folder to start editing files in that folder.
 
 ## Linux
-1. [Download Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534108) for Linux.
+1. [下载 Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534108) for Linux.
 2. Make a new folder and extract `VSCode-linux-x64.zip` inside that folder.
 3. Double click on `Code` to run Visual Studio Code.
 
@@ -28,7 +28,7 @@ sudo ln -s /path/to/vscode/Code /usr/local/bin/code
 Now, you can simply type `code .` in any folder to start editing files in that folder.
 
 ## Windows
-1. [Download Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534107) for Windows.
+1. [下载 Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534107) for Windows.
 2. Double-click on `VSCodeSetup.exe` to launch the setup process. This will only take a minute.
 
 >**Tip:** Visual Studio Code will be added to your path, so from the console you can simply type `code .` to open VS Code on that folder!
