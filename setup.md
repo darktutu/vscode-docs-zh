@@ -29,7 +29,7 @@ Now, you can simply type `code .` in any folder to start editing files in that f
 
 ## Windows
 1. [下载 Visual Studio Code](http://go.microsoft.com/fwlink/?LinkID=534107) for Windows.
-2. Double-click on `VSCodeSetup.exe` to launch the setup process. This will only take a minute.
+2. 双击 `VSCodeSetup.exe` 开始安装.这只需要一会.
 
 >**Tip:** Visual Studio Code will be added to your path, so from the console you can simply type `code .` to open VS Code on that folder!
 
@@ -52,7 +52,7 @@ Visual Studio Code integrates with existing tool chains.  We think the following
 - [TypeScript definition manager](http://definitelytyped.org/tsd/) - search and download 100's of TypeScript definition files for popular JavaScript frameworks, providing great IntelliSense in VS Code
 
 
-## Next Steps
+## 下一步
 Now you have installed and set up VS Code. Let's get going...
 
 * [The Basics](/docs/editor/codebasics.md) - Basic orientation around VS Code
@@ -61,7 +61,7 @@ Now you have installed and set up VS Code. Let's get going...
 
 
 
-## Common Questions
+## 常见问题
 
 **Q: What are the system requirements for VS Code?**
 
